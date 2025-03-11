@@ -1,5 +1,5 @@
 import fire
-
+# import fire is necessary to use fire.Fire()
 def hello(name="World"):
   return "Hello %s!" % name
 
